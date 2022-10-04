@@ -6,8 +6,8 @@ import Testimonial4 from "../Assets/testimonials/testimonial4.jpg";
 
 const Testimonials = () => {
   return (
-    <div className="mt-2 h-[30vh]">
-      <div className="grid grid-cols-4 gap-2 h-[100%] text-[11px]">
+    <div className="mt-2 h-full">
+      <div className="grid grid-cols-2 md:grid-cols-4 gap-4 h-[100%] text-[11px]">
         <div className="h-[100%]">
           <img src={Testimonial1} alt="" className="h-[90%] object-cover" />
           <p>"Stop your research now. This is the design team to work with."</p>

@@ -4,7 +4,7 @@ import HeaderPhoto from "../Assets/header_photo.jpg";
 const Header = () => {
   return (
     <div className="pt-20">
-      <div className="h-[300px] relative">
+      <div className="md:h-[300px] relative">
         <div>
           <img
             src={HeaderPhoto}
@@ -13,8 +13,8 @@ const Header = () => {
           />
         </div>
 
-        <div className="flex flex-col bg-white py-2 px-4 absolute bottom-0 right-0 h-[200px] w-[50%]">
-          <h2 className="flex-[3] font-monument text-[30px] text-amber-200">
+        <div className="flex flex-col bg-white py-2 px-4 md:absolute bottom-0 right-0 h-[200px] md:w-[50%]">
+          <h2 className="flex-[3] font-monument text-[22px] md:text-[30px] text-amber-200">
             We make homes look beautiful
           </h2>
           <p className="flex-[6] text-[14px] text-gray-500 font-playfair">
