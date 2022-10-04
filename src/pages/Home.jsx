@@ -6,7 +6,7 @@ import Testimonials from "../components/Testimonials";
 
 const Home = () => {
   return (
-    <div className="h-full">
+    <div className="h-full px-2">
       <NavBar />
       <Header />
       <Testimonials />

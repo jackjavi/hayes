@@ -17,12 +17,10 @@ const Header = () => {
           <h2 className="flex-[3] font-monument text-[30px] text-amber-200">
             We make homes look beautiful
           </h2>
-          <p className="flex-[6] text-[14px] font-playfair">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit.
-            Consequatur, neque quam. Aliquid animi ducimus dolor ipsum nobis
-            dicta sunt ullam cum omnis. Lorem ipsum dolor sit amet consectetur
-            adipisicing elit. Consequatur, neque quam. Aliquid animi ducimus
-            dolor ipsum nobis dicta sunt ullam cum omnis.
+          <p className="flex-[6] text-[14px] text-gray-500 font-playfair">
+            To us, interior design gives us the opportunity to turn our clients
+            dreams into reality. It is an experience that begins with an idea
+            and ends with the realization of beautiful designs.
           </p>
           <div className="flex flex-[3] gap-2 text-[20px]">
             <button className="font-shock bg-amber-200 h-[60%] px-2 text-white">
