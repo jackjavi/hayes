@@ -32,7 +32,7 @@ const NavBar = () => {
     <div className="flex justify-between items-center w-full h-20 px-4 text-gray-700 bg-white fixed">
       <div>
         <h1 className="text-3xl text-purple-900 font-shock font-extrabold ml-2">
-          MTE.
+          MTEMBETE.
         </h1>
       </div>
 

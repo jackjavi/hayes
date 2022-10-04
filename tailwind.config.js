@@ -6,6 +6,7 @@ module.exports = {
       fontFamily: {
         shock: ["Shock"],
         playfair: ["Playfair Display"],
+        monument: ["MonumentExtended"],
       },
     },
   },
